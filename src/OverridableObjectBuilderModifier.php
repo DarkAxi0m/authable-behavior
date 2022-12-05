@@ -8,7 +8,7 @@ use Propel\Generator\Util\PhpParser;
 class OverridableObjectBuilderModifier
 {
     /**
-     * @var UuidBehavior
+     * @var AuthableBehavior
      */
     private $behavior;
 
@@ -40,7 +40,7 @@ class OverridableObjectBuilderModifier
 
     /**
      * Get the [$column] column value. Allways returns '*********' if not null
-     * This will break a few functions, like copyInto
+     * Warning: This will break a few functions, like copyInto
      * 
      * @return string|null
      */
