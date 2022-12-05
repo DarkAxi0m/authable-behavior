@@ -1,6 +1,6 @@
 {
   "name": "darkaxi0m/authable-behavior",
-  "description": "Something for later",
+  "description": "Small Propel Behaviour to add password hash checking to a table",
   "license": "MIT",
   "authors": [
     {
