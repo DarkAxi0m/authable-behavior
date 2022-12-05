@@ -41,3 +41,6 @@ This project started out just being a leaning tool for my self and wanting to kn
 
 
 *thankyou to https://github.com/donkeycode/propel-uuid-behavior for the for some of the inital project layout etc*
+
+
+[![wakatime](https://wakatime.com/badge/user/76584d9d-5b41-46e5-8997-1dba7fa49c33/project/6aa0efd4-5c3b-49eb-ac6c-6e10ed2c1f7e.svg)](https://wakatime.com/badge/user/76584d9d-5b41-46e5-8997-1dba7fa49c33/project/6aa0efd4-5c3b-49eb-ac6c-6e10ed2c1f7e)
